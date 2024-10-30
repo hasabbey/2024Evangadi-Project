@@ -38,7 +38,7 @@ const Login = () => {
   return (
     <div className=' banner'>
       <section className='sm:block bg-light mx-auto md:flex md:justify-between container-fluid max-w-[1150px]'>
-        <div className='bg-[#fff] mt-24 shadow-2xl h-[500px] bground mr-8 container text-center rounded-2xl'>
+        <div className=' mt-24 shadow-2xl h-[500px] bground mr-8 container text-center rounded-2xl'>
           <div>
             <div className='text-xl pt-32 pb-3'>Login into your Account</div>
             <p className='text-center'>
